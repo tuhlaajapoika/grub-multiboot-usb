@@ -1,2 +1,6 @@
-# Boot Windows and Ubuntu installers from USB device using GRUB
-Only grub.cfg file (for now) to boot Ubuntu and Windows 10 installers from USB device.
+GRUB.cfg multiboot
+==================
+I'm using this for GNU/Linux and Windows 10 installers.
+
+You should be looking for this:
+https://github.com/thias/glim/
